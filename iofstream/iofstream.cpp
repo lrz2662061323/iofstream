@@ -10,7 +10,7 @@ int main()
 	char data[100];
 
 	std::ofstream fout;
-	fout.open("TE哈哈哈哈.txt");
+	fout.open("TE哈哈哈哈哈哈哈哈哈.txt");
 
 
 	std::cout << "Writing to the file" << std::endl;
