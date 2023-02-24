@@ -10,7 +10,14 @@ int main()
 	char data[100];
 
 	std::ofstream fout;
-	fout.open("TEST.txt");
+	fout.open("TEST1111.txt");
+
+
+
+
+
+
+
 	std::cout << "Writing to the file" << std::endl;
 	std::cout << "Enter your name: ";
 	std::cin.getline(data, 100);
