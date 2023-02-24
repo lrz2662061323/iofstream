@@ -10,7 +10,7 @@ int main()
 	char data[100];
 
 	std::ofstream fout;
-	fout.open("TEST1111.txt");
+	fout.open("TE.txt");
 
 
 
